@@ -1,6 +1,6 @@
 import random
 
-print("Hi! I'm going to try to guess your age.")
+print("Hi, I'm the magical age guesser! I'm going to try to guess your age.")
 
 name = input("What is your name? ")
 
