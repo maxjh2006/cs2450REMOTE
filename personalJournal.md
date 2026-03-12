@@ -19,3 +19,6 @@ Date 1/23/25:
 
 3/5/26:
     This has been a crazy couple of weeks but it is finally winding down and I get to head home for spring break, its going to be a great time. This week was not the most busy because my c++ instructor was out of town but I learned some good stuff. We did pair programming in my SE class which was a good exersize and we have been talking about packets in networks, udp and tcp and the different protocols for transferring packets, things like checksum, port numbers, sequence numbers, ACK and NAK, and such; its confusing me. Overall im not busy, yet I kind of always feel like im downing, not a great experience.
+
+3/12/26:
+    Currently I am on spring break, but I thought I should still update this in order to keep building a journaling habit. I have been taking the break easier than I should be, but after all taking a break is a very important thing to do for all levels or functionality and well being. I have done some study on C++ and a lot of studying for my math test since it's immedietly after the break. The test is on chapter 3 only, which is about probabilty on a continuous interval. My friend made it sound simple on paper since it's the same things we were working with before, just over an interval, however I do not feel the same way as him; I am lost unfortunately.
